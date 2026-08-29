@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 52" width="200" height="52">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b97f3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e62d5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Diamond icon -->
+  <rect x="2" y="8" width="36" height="36" rx="6" fill="url(#logoGrad)" transform="rotate(10, 20, 26)"/>
+  <polygon points="20,12 30,26 20,40 10,26" fill="white" opacity="0.9"/>
+  <!-- Company name -->
+  <text x="50" y="22" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#0f2244" letter-spacing="0.5">EPOXY</text>
+  <text x="50" y="40" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#3b97f3" letter-spacing="0.5">FLOORING</text>
+</svg>
